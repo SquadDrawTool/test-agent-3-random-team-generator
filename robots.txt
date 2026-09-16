@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bussacmaelys-stack.github.io/test-agent-3-random-team-generator/sitemap.xml
